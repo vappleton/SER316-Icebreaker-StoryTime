@@ -1,0 +1,1 @@
+This repository is for a fun, collaborative story where team members and other classmates contribute sentences using German words while practicing Git and GitHub skills like branching, committing, and creating Pull Requests.
